@@ -1,0 +1,8 @@
+public class IT25200151 Lab1Q1 {
+
+    public static void main(String[] var0) {
+	
+  	  System.out.println("Hello world - IT25200151");
+	}
+}	
+        
